@@ -5,3 +5,6 @@ int main() {
 	scanf("%f", &base);
 	printf("Enter the height of the triangle: ");
 	scanf("%f", &height);
+
+	area = 0.5 * base * height;
+
